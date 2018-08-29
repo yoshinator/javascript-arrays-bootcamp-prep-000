@@ -1,2 +1,1 @@
-var chocolateBars = new Array("snickers");
-console.log(chocolateBars);
+var chocolateBars = new Array("snickers", "hundred grand", "kitkat", "skittles");
