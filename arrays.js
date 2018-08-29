@@ -9,4 +9,4 @@ function destructivelyAddElementToBegginingOfArray(){
   
 }
 
-addElementToBegginingOfArray(chocolateBars, "almond joy");
+console.log(addElementToBegginingOfArray(chocolateBars, "almond joy"));
