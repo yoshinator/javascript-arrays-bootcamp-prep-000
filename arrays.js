@@ -10,6 +10,10 @@ function destructivelyAddElementToBegginingOfArray(ary, element){
 }
 
 
-function addElementToEndOfArray()
+function addElementToEndOfArray(){
+  
+}
+
+function destructivelyAddElementToBegginingOfArray
 console.log(addElementToBegginingOfArray(chocolateBars, "almond joy"));
 console.log(chocolateBars);
