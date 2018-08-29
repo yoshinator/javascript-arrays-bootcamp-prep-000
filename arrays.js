@@ -21,5 +21,7 @@ function accessElementInArray(ary,indexOfAry){
   return ary[indexOfAry];  
 }
 
-
+function destructivesRemoeElementFromBeginningOfArray(){
+  
+}
 
