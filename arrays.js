@@ -5,8 +5,8 @@ function addElementToBegginingOfArray(ary, element){
   return [element,...ary]
 }
 
-function destructivelyAddElementToBegginingOfArray(){
-  
+function destructivelyAddElementToBegginingOfArray(ary, element){
+  return chocolateBars.unshift(element)
 }
 
 console.log(addElementToBegginingOfArray(chocolateBars, "almond joy"));
