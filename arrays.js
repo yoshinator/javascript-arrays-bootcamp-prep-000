@@ -9,5 +9,7 @@ function destructivelyAddElementToBegginingOfArray(ary, element){
   return chocolateBars.unshift(element)
 }
 
+
+function addElementToEndOfArray()
 console.log(addElementToBegginingOfArray(chocolateBars, "almond joy"));
 console.log(chocolateBars);
